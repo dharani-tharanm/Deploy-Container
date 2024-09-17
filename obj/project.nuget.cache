@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3F7KtkNXzI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z004yw6y\\Git\\TodoApp2\\plp\\TodoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z004yw6y\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
